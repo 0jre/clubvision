@@ -12,6 +12,8 @@ Plataforma completa para comunidades e clubes no ecossistema Novision — site, 
 
 O ClubVision é uma plataforma desenvolvida para a comunidade Novision, destinada ao público de língua portuguesa. Seu objetivo é fornecer uma infraestrutura robusta, modular e escalável para clubes, comunidades e organizações no ambiente digital — integrando gamificação, economia digital, automação, interatividade social, marketplace e muito mais.
 
+> **Nota sobre o código:** este projeto foi criado em 2023 para estudo e aprendizagem em programação. Todo o código foi escrito à mão, antes da era das IAs agenticas. Por isso, o código pode apresentar escritas confusas, poluições e complexidades excessivas — o projeto foi pensado justamente para desenvolvimento e aprendizagem em programação na época.
+
 ## Recursos
 
 ### Plataforma Web (Next.js)
@@ -81,4 +83,4 @@ Toda a documentação de arquitetura, fluxos, diagramas e detalhes técnicos est
 
 ## Licença
 
-Consulte o arquivo [license.md](./license.md).
+Distribuído sob a licença **MIT**. Consulte o arquivo [license.md](./license.md).
