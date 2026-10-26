@@ -1,0 +1,23 @@
+{
+  "name": "novision",
+  "short_name": "thenovision",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#27FF84",
+  "background_color": "#0B0C0A",
+  "icons": [
+    {
+      "src": "/retouch_2025012221142753.jpg",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icons/favicon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
+
