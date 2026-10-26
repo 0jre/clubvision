@@ -1,0 +1,1 @@
+export {RegisterAccount as default } from '@/lib/services/user/RegisterAccount'

@@ -1,0 +1,1 @@
+export {Insights as default } from '@/lib/services/wallet_vor/insights'

@@ -1,0 +1,1 @@
+export { sendDiscordImage as default } from '@/admin/services/addition;permission'

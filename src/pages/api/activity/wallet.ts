@@ -1,0 +1,1 @@
+export { Walletvision_vor as default} from '@/lib/services/wallet_vor/events/notifications'

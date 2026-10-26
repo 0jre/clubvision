@@ -1,0 +1,1 @@
+export {PlatformIsights as default } from '@/admin/services/insights;platform'

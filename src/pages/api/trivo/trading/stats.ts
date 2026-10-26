@@ -1,0 +1,1 @@
+export {  StatsTrades as default } from '@/lib/services/trades/StatsTrades'

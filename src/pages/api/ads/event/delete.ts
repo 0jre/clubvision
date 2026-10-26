@@ -1,0 +1,1 @@
+ export {Events_delete as default } from '@/admin/services/events;ovx'

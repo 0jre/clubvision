@@ -1,0 +1,1 @@
+export {Advertising as default } from '@/admin/services/advertising;ovx'

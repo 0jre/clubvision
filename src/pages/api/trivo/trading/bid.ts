@@ -1,0 +1,1 @@
+export {Bid as default } from '@/lib/services/trades/bid'

@@ -1,0 +1,1 @@
+export {FinalizeService as default } from '@/lib/services/staking/src/finalizeService'

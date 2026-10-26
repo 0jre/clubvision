@@ -1,0 +1,1 @@
+export {Overview as default } from '@/admin/services/manager_overview'

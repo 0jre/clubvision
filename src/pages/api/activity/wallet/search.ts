@@ -1,0 +1,1 @@
+export {SearchUsers as default } from '@/lib/services/wallet_vor/events/search_users'

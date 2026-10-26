@@ -1,0 +1,1 @@
+export {MyTrades as default } from '@/lib/services/trades/myTrades'

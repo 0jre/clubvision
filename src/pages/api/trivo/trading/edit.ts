@@ -1,0 +1,1 @@
+export {EditOffers as default } from '@/lib/services/trades/editOffers'

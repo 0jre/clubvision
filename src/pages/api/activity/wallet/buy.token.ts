@@ -1,0 +1,1 @@
+export {BuyTokens as default } from '@/lib/services/wallet_vor/events/buy_tokens'

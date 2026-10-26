@@ -1,0 +1,1 @@
+export {DoubleGaming as default } from '@/lib/services/wallet_vor/games/double'

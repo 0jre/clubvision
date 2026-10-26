@@ -1,0 +1,1 @@
+export {BalanceWallet as default } from '@/lib/services/wallet_vor/events/balance'

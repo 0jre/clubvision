@@ -1,0 +1,1 @@
+export { SellOfOffers as default } from '@/lib/services/trades/sellOfOffers'

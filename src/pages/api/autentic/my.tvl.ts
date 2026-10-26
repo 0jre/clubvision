@@ -1,0 +1,1 @@
+export {GetMyTvL as default } from '@/lib/services/TokenVirtual/MyTvl.GetX'

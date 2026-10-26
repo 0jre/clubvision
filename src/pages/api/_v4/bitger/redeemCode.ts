@@ -1,0 +1,1 @@
+export {redeemCode as default } from '@/admin/services/reedem;code'

@@ -1,0 +1,1 @@
+export {RemoveField as default } from '@/lib/services/user/RemoveField'

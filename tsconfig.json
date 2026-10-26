@@ -1,0 +1,48 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["dom","dom.iterable","esnext" ],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "noEmit": true,
+    "esModuleInterop": true,
+    "module": "commonjs", // esnext
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "jsx": "preserve",
+    "incremental": true,
+ 
+    "paths": {
+      "@/*": ["./src/*", "./*"],
+      "@lib/*": ["./lib/*"],
+      "@club/*": ["./src/*"],
+      "@/wallet/*": ["./src/wallet/*"],
+      "shopping/*": ["./src/shop/*"],
+      "stylesheet/*": ["./app/shop/stylesheet/*"],
+      "assets/*":["./app/shop/assets/*"]
+    },
+    "plugins": [
+      {
+        "name": "next"
+      }
+    ]
+  },
+  "include": [
+    "next-env.d.ts",
+    "types/**/*.d.ts",
+    "core/**/*.ts",
+    "**/*.ts",
+    "**/*.tsx",
+    ".next/types/**/*.ts"  
+   ],
+  "exclude": [
+    "node_modules"
+  ],
+
+  "rootDir": [
+    "./core"
+  ]
+}

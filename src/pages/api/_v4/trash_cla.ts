@@ -1,0 +1,1 @@
+export {TrashCla as default } from '@/admin/services/manager;trash'

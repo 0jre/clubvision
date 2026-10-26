@@ -1,0 +1,1 @@
+export {RewardStaking as default } from '@/lib/services/staking/src/rewardStaking'

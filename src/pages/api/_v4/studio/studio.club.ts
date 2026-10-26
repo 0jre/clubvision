@@ -1,0 +1,1 @@
+export {OverviewStudio as default } from '@/lib/services/studio/overview'

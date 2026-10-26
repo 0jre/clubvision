@@ -1,0 +1,1 @@
+export {HistoryView as default } from '@/admin/services/moderation;history'

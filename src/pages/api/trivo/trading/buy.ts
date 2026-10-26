@@ -1,0 +1,1 @@
+export {BuyTvl as default } from '@/lib/services/trades/buyTvl'

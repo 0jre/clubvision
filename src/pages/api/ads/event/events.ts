@@ -1,0 +1,1 @@
+export {Events_overview as default } from '@/admin/services/events;ovx'

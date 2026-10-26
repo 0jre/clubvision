@@ -1,0 +1,1 @@
+export {WalletTransfer as default } from '@/lib/services/wallet_vor/events/transfer'

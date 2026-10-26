@@ -1,0 +1,1 @@
+export { Delete_History as default } from '@/admin/services/moderation;history'

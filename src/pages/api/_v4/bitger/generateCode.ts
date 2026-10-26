@@ -1,0 +1,1 @@
+export { generateOrGetCodes as default } from '@/admin/services/generate;code'
