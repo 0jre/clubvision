@@ -4,13 +4,13 @@
 
 # ClubVision
 
-Plataforma completa para comunidades e clubes no ecossistema Novision — site, bot de Discord e painel administrativo em um único projeto.
+Plataforma completa para a comunidade de FiveM (GTA V RP) no ecossistema Novision — site, bot de Discord e painel administrativo em um único projeto.
 
 ![Tela inicial do ClubVision](./docs/assets/tela-inicial.png)
 
 ## Sobre o Projeto
 
-O ClubVision é uma plataforma desenvolvida para a comunidade Novision, destinada ao público de língua portuguesa. Seu objetivo é fornecer uma infraestrutura robusta, modular e escalável para clubes, comunidades e organizações no ambiente digital — integrando gamificação, economia digital, automação, interatividade social, marketplace e muito mais.
+O ClubVision é uma plataforma desenvolvida para a comunidade Novision — uma comunidade de **FiveM (GTA V RP)** de língua portuguesa. Seu objetivo é fornecer uma infraestrutura robusta, modular e escalável para clubes, comunidades e organizações no ambiente digital — integrando gamificação, economia digital, automação, interatividade social, marketplace e muito mais.
 
 > **Nota sobre o código:** este projeto foi criado em 2023 para estudo e aprendizagem em programação. Todo o código foi escrito à mão, antes da era das IAs agenticas. Por isso, o código pode apresentar escritas confusas, poluições e complexidades excessivas — o projeto foi pensado justamente para desenvolvimento e aprendizagem em programação na época.
 
